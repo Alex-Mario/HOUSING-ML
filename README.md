@@ -6,16 +6,16 @@ The dataset is small yet, it's complexity arises due to the fact that it has str
 ## FEATURE DESCRIPTION
 Data Dictionary:
 
-price: Price of the Houses
-area:Area of a House
-bedprice: Number of House Bedprice
-bathprice: Number if Bathprice
-stories: Number of House Stories
-mainroad: Wether connected to Main Road
-guestroom: Wether has a guest room
-basement: Wether has a basement
-hotwaterheating: Wether has a hotwater heater
-airconditioning: Wether has an airconditioning
-parking: Number of House Parkings
-prefarea: Prefarea of the House
-furnishingstatus: Furnishing status of the House
+price: Price of the Houses<br>
+area:Area of a House<br>
+bedprice: Number of House Bedprice<br>
+bathprice: Number if Bathprice<br>
+stories: Number of House Stories<br>
+mainroad: Wether connected to Main Road<br>
+guestroom: Wether has a guest room<br>
+basement: Wether has a basement<br>
+hotwaterheating: Wether has a hotwater heater<br>
+airconditioning: Wether has an airconditioning<br>
+parking: Number of House Parkings<br>
+prefarea: Prefarea of the House<br>
+furnishingstatus: Furnishing status of the House<br>
